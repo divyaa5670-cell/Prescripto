@@ -18,12 +18,4 @@
 - **Authentication**: JWT (JSON Web Tokens)
 - **State Management**: Redux (optional)
 
-## Getting Started
-Follow these instructions to set up the project locally.
-
-### Prerequisites
-- Node.js installed
-- MongoDB installed or access to a MongoDB cloud instance
-- Git installed
-
 
